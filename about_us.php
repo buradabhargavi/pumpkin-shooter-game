@@ -27,14 +27,6 @@
 
     <h2 style="font-family:Montserrat;color: #BF516A;font-size:30px;text-align:center;margin-top:58px;margin-bottom:50px;">ABOUT US</h2>
     <center><p>This website is solely a work of final year engineering project done for the benefit of finding out the details of a movie.</p></center>
-
-
-
-
-
-
-
-
     <div class="main-wrap">
         <div class="footer-wrap">
             <div class="footer-wrap-1">
